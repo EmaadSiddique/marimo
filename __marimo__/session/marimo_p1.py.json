@@ -1,0 +1,268 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.17.6"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "8142738b84302464d9d925dd9e7d3feb",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "9f2fb1509bf9335122f79c0a9a2d9779",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "6161a2f5289331ab913ceb44da863e7d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "37b5da274355e83457857562f9f323aa",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "41b91ad72d82eeada4ae4f4657f52e47",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='lEQa-0' random-id='4d2ac9af-e385-ef66-2da9-0fee890bf7ef'><marimo-slider data-initial-value='10' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Top-N Businesses&lt;/span&gt;&lt;/span&gt;&quot;' data-start='5' data-stop='50' data-step='5' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "4d08d45f1d01a5d53a3706e7de6daee0",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "863727bf73759f80afc7ed2de86fbc99",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='Xref-0' random-id='5a3ceea4-6657-93e2-8e04-5aca90d2c6c4'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;name&#92;&quot;:&#92;&quot;Blues City Deli&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;2438 McNair Ave&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:991},{&#92;&quot;name&#92;&quot;:&#92;&quot;Carlillos Cocina&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;415 S Rock Blvd&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:799},{&#92;&quot;name&#92;&quot;:&#92;&quot;Free Tours By Foot&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;2613 Laurel St&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:769},{&#92;&quot;name&#92;&quot;:&#92;&quot;Tumerico&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;2526 E 6th St&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:705},{&#92;&quot;name&#92;&quot;:&#92;&quot;Yats&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;2000 Mallory Ln, Ste 615&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:623},{&#92;&quot;name&#92;&quot;:&#92;&quot;Nelson&#x27;s Green Brier Distillery&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;1414 Clinton St&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:545},{&#92;&quot;name&#92;&quot;:&#92;&quot;Smiling With Hope Pizza&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;6135 Lakeside Dr, Ste 101, Bartley Ranch&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:526},{&#92;&quot;name&#92;&quot;:&#92;&quot;Barracuda Deli Cafe St. Pete Beach&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;6640 Gulf Blvd&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:521},{&#92;&quot;name&#92;&quot;:&#92;&quot;SUGARED + BRONZED&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;1120 Walnut St&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:513},{&#92;&quot;name&#92;&quot;:&#92;&quot;Cafe Soleil&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;4695 Gulf Blvd&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:468}]&quot;' data-total-rows='10' data-total-columns='4' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;name&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;address&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;stars&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;review_count&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='false' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "9fbb96b202fd2c4bbd3595a6be52b4c7",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "2550a3b5d8c7ae83c24d6d5f5a50c44a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "292cfa9eee276fb84e7878a481d8aa2f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='RGSE-0' random-id='55783b65-fbac-a126-6b15-351b678dc441'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;name&#92;&quot;:&#92;&quot;Tortilleria San Roman&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;951 S 9th St&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:219},{&#92;&quot;name&#92;&quot;:&#92;&quot;Castellino&#x27;s&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;1255 E Palmer St&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:72},{&#92;&quot;name&#92;&quot;:&#92;&quot;Restaurant Ambra&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;705 S 4th St&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:61},{&#92;&quot;name&#92;&quot;:&#92;&quot;Superior Pasta Company&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;905 Christian St&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:60},{&#92;&quot;name&#92;&quot;:&#92;&quot;Chiquita&#x27;s Pizzeria &amp; Mexican Grill&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;746 Snyder Ave&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:48},{&#92;&quot;name&#92;&quot;:&#92;&quot;The Greyhound Cafe&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;1839 Poplar St&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:41},{&#92;&quot;name&#92;&quot;:&#92;&quot;Caffe Ida&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;1732 W Passyunk Ave&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:33},{&#92;&quot;name&#92;&quot;:&#92;&quot;Fiorella&#x27;s Sausage&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;817 Christian St&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:27},{&#92;&quot;name&#92;&quot;:&#92;&quot;Villari Brothers Bakery&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;2134 S 10th St&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:25},{&#92;&quot;name&#92;&quot;:&#92;&quot;The Gables Cafe&#92;&quot;,&#92;&quot;address&#92;&quot;:&#92;&quot;4600 Woodland Ave&#92;&quot;,&#92;&quot;stars&#92;&quot;:5.0,&#92;&quot;review_count&#92;&quot;:14}]&quot;' data-total-rows='10' data-total-columns='4' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;name&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;address&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;stars&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;review_count&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='false' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "e43d90eb6904d27afa32607e9874171b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='Kclp-0' random-id='ef98fafb-4364-5a94-4597-31e585b52550'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;text&#92;&quot;:&#92;&quot;I had been wanting to go to Village Belle since I moved into the neighborhood a few months back.  I purchased a living social deal and went on a Friday night. It has an ample amount of outdoor seating and we got a spot outside without a wait.  &#92;&#92;n&#92;&#92;nThe service was attentive and pleasant.  The beer selection was OK.  If it were a restaurant outside of philly the beer list might be impressive but considering nearly every place in the city has an impressive list these days, this one was simply OK. &#92;&#92;n&#92;&#92;nFor an appetizer we had the calamari which was good.  Not the best I&#x27;ve ever had.  When I return I&#x27;d probably go with the meatball appetizer as I&#x27;ve heard its really good.  I don&#x27;t know why we selected the calamari, but we still enjoyed it.  &#92;&#92;n&#92;&#92;nAs for entrees, I had the rigatoni and my wife had scallops and shrimp.  We both really enjoyed our dishes.  I was a big fan of the rigatoni and it will probably be my go to dish. &#92;&#92;n&#92;&#92;nThe prices were a little on the high end.  18-25 for entrees.  But considering we got a couple beers, an appetizer, and 2 entrees and our bill was &#36;75, it wasnt too bad. &#92;&#92;n&#92;&#92;nI really enjoyed the experience and will be back.&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;great.&#92;&#92;n&#92;&#92;nAll I want to say is that Marra&#x27;s is great.&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;Literally the highlight of my trip to philly. I loved the whole town but this experience was the icing on the cake. Nicest woman I&#x27;ve ever met and the food was absurdly good. If you don&#x27;t go here it&#x27;s your loss.&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;First time ordering from this place and I arrived literally 20 minutes later. Wow! And it&#x27;s a Saturday night. Pizza came hot and fresh the crust was still crispy and it is delicious. I will recommend and order again. Keep up the good work!&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;I absolutely love this restaurant. I&#x27;m genuinely surprised with some of the negative comments. I&#x27;ve never had a bad experience. The food has always been excellent and the wait staff has always been nice and attentive. My only complaint is that depending on when you go the wait can be long. As far as I&#x27;m concerned it&#x27;s well worth it. The tour of Italy is usually my go to. It&#x27;s delicious and I also love their flavor ice teas. I&#x27;ve also ordered many pick ups from here and everything was always on point. I would recommend it to anyone and will be going back myself.&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;First timer at Marra&#x27;s but definitely won&#x27;t be the last time. Went here after the Phils game with the family. We are die hard Ralph&#x27;s fans but heard good things about Marra&#x27;s so we thought we&#x27;d give it a try. Food was excellent, portions very big and prices were good. Will definitely return again and again. Brick oven pizza was delicious, pasta was homemade with many large chunks of crabmeat and the cannoli&#x27;s were perfect. Great dinner&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;The food was AMAZING! The calamari melted in your mouth and the buratta toast was so tasty. My boyfriend had the filet which was cooked to perfection and I had the gnocchi. We also had tiramisu for desert. By &#92;&#92;&#92;&quot;we&#92;&#92;&#92;&quot; I mean &#92;&#92;&#92;&quot;I&#92;&#92;&#92;&quot;. It was a little crazy because it&#x27;s Valentine&#x27;s Weekend, but we were in no rush to get out so we didn&#x27;t mind. The atmosphere was very cool and they worked with our last minute reservation seating request. HIGHLY recommend this place.&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;I never leave reviews but I just had one of the best dinner experiences at Bistro Romano! Our waiter was awesome! We ordered the table side caesar salad which was the best I&#x27;ve ever had. My husband even loved his and he&#x27;s not even a fan of Caesar dressing. &#92;&#92;nDinner was great as well. Our waiter felt that dinner had taken longer than necessary to be made so he offered us complimentary after dinner drinks with our desert. &#92;&#92;nWe got our check by realized we hadn&#x27;t been charged for a bottle of wine we ordered. After bringing it to our waiters attention he offered to give it to us for free but we refused. He gave us a new check along with a &#36;20 gift card to use at our next visit for our honesty. &#92;&#92;nGreat food, atmosphere and customer service! I would have given them 10 stars if I could! I highly recommend enjoying a meal at Bistro Romano!&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;The best seating here is downstairs.  We had a good table.  Vienna, our waitress, was a sweetie!  We had several mishaps. One drink was not available and the substitute ordered took 15 minutes. Our waitress checked at bar and apologized.  We also had to wait to order. The manager gave us a round of drinks for being patient.She also had a salad split for us to share.  We didn&#x27;t get any bread til we asked.  One meal was supposed to be mild but came spicy. Again waitress was very nice about it.  I was going to just eat it but the kitchen manager insisted on getting the mild one.  Our waitress comped the salads.  The food was excellent with fairly large portions.  Three of us had pasta with seafood.  Seafood was cooked perfectly. One had the veal osso bucca which was also very good. This experience could&#x27;ve been much worse. The staff really went out of their way to make up for the problems.  We will definitely go back because of that.&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;Intimate and accommodating.&#92;&#92;n&#92;&#92;nCame here on a Saturday evening and had a great time. There is a fantastic wine list and service is excellent.&#92;&#92;n&#92;&#92;nI would recommend the Caesar salad that is made in front of you and was delicious. I also had the duck legs with gravy and mash which hit the spot.&#92;&quot;}]&quot;' data-total-rows='100' data-total-columns='1' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;text&quot;,[&quot;string&quot;,&quot;object&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='false' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "emfo",
+      "code_hash": "4936804c404a88bdc2d4511586807e64",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='emfo-0' random-id='cc28c4bb-833b-c7ac-c8c3-172e8a76b308'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;text&#92;&quot;:&#92;&quot;Awful.  The food ranged from bad to sub-standard.  The wait staff and kitchen staff maintained a constant, extremely loud stream of inanities (and we weren&#x27;t anywhere near the kitchen, though many tables were positioned in that vicinity).  Our wait-person spoke extremely loudly to each table and was so disconnected from the concept of service that she returned five separate times at the end of our meal to utter very loudly &#92;&#92;&#92;&quot;Thank you for choosing us tonight.  Please come and see us again.&#92;&#92;&#92;&quot;  Even with the &#92;&#92;&#92;&quot;pasta night&#92;&#92;&#92;&quot; discount, we spent far more than anything served was worth (even the artichoke appetizer, which was the one fairly well-prepared dish, was absurdly over-priced).  Perhaps the restaurant&#x27;s business is suffering because of all this low-quality; I have never been treated so pushily by any wait staff.  When we said we couldn&#x27;t eat any more and would like the check (really we were disgusted and wanted to get out of there ASAP), the waitress actually asked, &#92;&#92;&#92;&quot;Are you sure you don&#x27;t want a chocolate torte to take home?&#92;&#92;&#92;&quot;  Five must be the magic number, because we counted five utensil drops, only one of which was by a customer (probably a function of the small table).  Combine all of the above with the dank, isolated-feeling interior and the cramped booths on the eastern side of the restaurant, in which they placed all two-person parties despite the slow traffic and ample availability of more spacious booths along the western edge, and finally with the fact that no one offered to take our bulky winter coats before leading us downstairs to such a tiny table) and you have one star.  Yuck!&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;It was nice that the restaurant allowed for custom pasta creations.  The food wasn&#x27;t horrible, but the linguine w/ clams it was too salty and some of the clams had sand in them.  I would stick to meat sauces, but you do happen to be there.  However, there are better Itialian restaurants in the city.&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;I&#x27;ll say first that I loved the look of this place. Sitting down in what felt like a cozy wine cellar I was exited. I had gotten an email inviting me and a guest to eat there for 33 bucks 3 courses. Thought it was too good to be true. I was right. Our waiter took our order and we both ordered salads of sorts. They took over 20 minutes to get out. It was Sunday, not busy the least. Plus our waiter who obviously knew ppl at the table right by us was not attentive at all throughout the night. Our entrees were ehh. Nothing special. Dessert which I look forward to being a pastry chef myself was as well just okay. Now being told that &#92;&#92;&#92;&quot;you and a guest&#92;&#92;&#92;&quot; I was under the impression that the price of 33 dollars would be it. Nope it was per person. At this point I no longer wanted the 20 dollar gift certificate, which I wasn&#x27;t even offered, BC I wouldn&#x27;t be returning. Don&#x27;t know how this place has such a high rating when they can&#x27;t even do quality service on a slow Sunday.&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;Love the location and atmosphere but the pizza was way too salty.  Very hard to enjoy it and should have sent it back after the first piece.&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;I rarely do this but have to say something. I placed a VERY LARGE order at Pizzeria Vetri for a client gift, a very well known one at that here in the city. I called the day before and the nice girl on the phone told me that it was best to call in the next morning. I tried to explain that this was very timely and since it was going to be a little large, could they take it and have it prepped for the kitchen in the morning - first thing. She assured me this was not necessary. &#92;&#92;nI followed her lead and called back the next morning - first thing - to place the order. It went fine and she assured me it would be ready as soon as we got there since we needed it to be ready to run out the door and take to our meeting. &#92;&#92;n&#92;&#92;nMy colleague and I stopped in and the server told me that it was being &#92;&#92;&#92;&quot;worked&#92;&#92;&#92;&quot; on. I waited five more minutes and asked if everything was ok. She let me know that they put the last of it in the oven. I said that this was a problem as I was supposed to already be en route across town. When it was finally ready, it was 3 minutes before noon - when I was needing to be there. We signed our CC receipt and grabbed the many boxes. As we started towards the door a woman in a low cut tank top wandered up to us behind the bar and said &#92;&#92;&#92;&quot;so what&#x27;s going on here?&#92;&#92;&#92;&quot; - we literally had no idea that she would be the &#92;&#92;&#92;&quot;manager&#92;&#92;&#92;&quot;. We tried to avoid the conversation and just let her know very calmly that we were very late for a meeting after being promised our order would be ready and said we had to go but that we would not be back. She was really not able to handle a scenario like this. &#92;&#92;n&#92;&#92;nShe then addresses us to let us know that &#92;&#92;&#92;&quot;this was a restaurant&#92;&#92;&#92;&quot; and &#92;&#92;&#92;&quot;we cannot expect things to be ready on time (give it 15 extra minutes). I let her know that this was not what I was told and if so, I should be informed prior to it to allow for this extra &#92;&#92;&#92;&quot;15 minutes&#92;&#92;&#92;&quot;. She told me that if we could talk to her like adults - she would listen. I felt like I was in some type of rom com or twlight zone spoof - was she kidding. We then said we were really late and that we could not believe this was her way of customer service. We were then 20 minutes late for our meeting and totally thrown off guard by the interaction we just had with such a high-profile associated restaurant - pizza place or not. &#92;&#92;n&#92;&#92;nSomething like would never have happened when it was owned by Vetri and not Urban - as to be expected after such an acquisition. Not going back, enough said. &#92;&#92;n&#92;&#92;nSpend your money elsewhere - I suggest Slice.&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;I had seen a piece on Marabella Meatball Co. on some food show, I don&#x27;t remember which one, that gave them glowing reviews. Naturally, I decided to give them a try. &#92;&#92;nI opted for a traditional, beef-pork-veal sandwich with marinara and mozzarella. &#92;&#92;nI was unimpressed. The meatballs were dry, and I prefer a moist, juicy meatball. The sauce was unimpressive. For &#36;9, it  was mediocre. Two other people tried my sandwich and agreed: nothing special. We all tried to understand what the big whoop was about. You could go to a good Italian deli that makes homemade meatballs and get better.&#92;&#92;nBy and large, I usually get good tips from yelp! There are places now and then that completely don&#x27;t live up to the hype, though (Federal Donuts, Royal Tavern, Osteria).&#92;&#92;nSometimes I wonder if it&#x27;s just groupthink. The hipsters hear other hipsters rave about something, then just jump on the bandwagon. &#92;&#92;nWhile the place was clean, service fine, etc., I was sorely disappointed.&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;I saw this place on tv, and wanted to give it a try. I walked in and decided to try the meatball Caesar. They had several options such as meatball sandwiches, pasta, soup, etc. &#92;&#92;nmy salad came with 2 meatballs. You can choose between vegetarian, beef, or chicken. The meatballs were just okay. I did not feel that they had a lot of flavor. At the same time I could tell that they were fresh.&#92;&#92;nThe service was friendly, and there is ample seating. They only have bottled beverages, which are a little pricey. Well, actually my meal was pricey. For the salad and a bottle of tea, it was a little over &#36;12. Yikes!&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;I had been wanting to to try this place for a while, since I like most of what Stephen Starr offers.  This ended up being an exception.  The first problem - only two beers on tap.  Really, come on.  One was Stella (ha ha) and the other was something seasonal, that didn&#x27;t even interest me.  Then came the meal.  The choices were interesting and I thought that after having the first one I ordered, I would probably be ordering a second.  That wasn&#x27;t going to happen.  The pizza we received looked nice, but was not memorable at all.  The crust did not have much flavor and was slightly burnt.  And the toppings were interesting, but just did not work well together.  I should have gone to Bertucci&#x27;s.&#92;&#92;n&#92;&#92;nSorry, but if am looking for a place to grab a bite (or a beer) in the future, I will not be headed here.&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;Had reservations at branzino over the weekend for four people. After we ordered it took one hour just to get our two pasta appetizers and another 45 minutes to receive our entrees. We asked our server several times to check on our food and got no response. We approached a manager and never once did she apologize. She actually suggested it was our fault for not approaching her sooner about the matter. By the time we got the entrees our entire party just wanted to get out of here. The manager never checked back with us on how our entrees were and nothing was taken off the bill.&#92;&#92;n&#92;&#92;nThe food is not that great and overpriced. The best item on the menu was the rabbit ragu. Excellent byob options down the street. We will not be returning to Branzino.&#92;&quot;},{&#92;&quot;text&#92;&quot;:&#92;&quot;Took a whole hour for 1 pizza and it&#x27;s cold and gross.&#92;&#92;nThey said anymore then 1 hour and it&#x27;s free&#92;&#92;nThe guy shows up in no lie 59:57 on the count down.&#92;&#92;nSo I&#x27;m stuck with this cold half assed pizza i don&#x27;t even want now. &#92;&#92;nShoulda just went with Chinese&#92;&quot;}]&quot;' data-total-rows='100' data-total-columns='1' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;text&quot;,[&quot;string&quot;,&quot;object&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='false' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hstk",
+      "code_hash": "254ea3c3a9f4a231125df8250536b9a9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='Hstk-0' random-id='ffed56c1-804c-7f5f-d5cb-84658f0e5127'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;postal_code&#92;&quot;:&#92;&quot;19112&#92;&quot;,&#92;&quot;italian_count&#92;&quot;:1,&#92;&quot;avg_rating&#92;&quot;:3.5},{&#92;&quot;postal_code&#92;&quot;:&#92;&quot;19137&#92;&quot;,&#92;&quot;italian_count&#92;&quot;:1,&#92;&quot;avg_rating&#92;&quot;:3.5},{&#92;&quot;postal_code&#92;&quot;:&#92;&quot;19140&#92;&quot;,&#92;&quot;italian_count&#92;&quot;:1,&#92;&quot;avg_rating&#92;&quot;:3.5},{&#92;&quot;postal_code&#92;&quot;:&#92;&quot;19151&#92;&quot;,&#92;&quot;italian_count&#92;&quot;:1,&#92;&quot;avg_rating&#92;&quot;:3.0},{&#92;&quot;postal_code&#92;&quot;:&#92;&quot;19126&#92;&quot;,&#92;&quot;italian_count&#92;&quot;:1,&#92;&quot;avg_rating&#92;&quot;:2.0}]&quot;' data-total-rows='5' data-total-columns='3' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;postal_code&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;italian_count&quot;,[&quot;integer&quot;,&quot;int64&quot;]],[&quot;avg_rating&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='false' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "nWHF",
+      "code_hash": "dfe9aac56046a31fdc1304c47304c47d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "iLit",
+      "code_hash": "87130cf82c2365f4abd98eea16b48e7b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZHCJ",
+      "code_hash": "41e2225c1ccc4bc15d32a9c833288bee",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ROlb",
+      "code_hash": "f5cf8a99ef3f5c19d9261c52f7be1dcc",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "qnkX",
+      "code_hash": "0367928f0a893b05871d72f5b2bbc957",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TqIu",
+      "code_hash": "2a4dc04b2460ce7d24d7f2f7efd95d16",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Vxnm",
+      "code_hash": "a91f50859bc3094f6f59ba78d729521a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

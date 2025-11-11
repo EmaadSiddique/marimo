@@ -1,0 +1,5 @@
+marimo
+sqlalchemy
+pandas
+pyodbc
+python-dotenv

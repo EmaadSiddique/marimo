@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+.env
+# OS
+.DS_Store
+# marimo artifacts (add if you create outputs)
+.marimo/
